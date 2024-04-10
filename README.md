@@ -1,2 +1,2 @@
-# perceived_diversity
+# Perceived Diversity
 Software Engineering in Perceived Diversity: a Systematic Literature Review
